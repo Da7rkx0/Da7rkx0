@@ -31,36 +31,21 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Da7rkx0&show_icons=true&theme=nightowl&include_all_commits=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Da7rkx0&theme=nightowl">
-</p>
-
----
 
 ## 🌟 Featured Projects
 
 ### [SilentTGxfer](https://github.com/Da7rkx0/SilentTGxfer) 🔐
 _Advanced Penetration Testing Framework_
-- Automated payload deployment system
-- C2 infrastructure management
-- Anti-forensic capabilities
+- Advanced File Detection
+- Secure Data Transmission
+- System Integration
 
-### [RedTeam Toolkit](https://github.com/Da7rkx0/) 🧰 (WIP)
-_Modular Offensive Security Platform_
-- Network reconnaissance modules
-- Vulnerability exploitation patterns
-- Post-compromise automation
-
----
 
 ## 🌐 Professional Network
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Da7rkx0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-reda-27959a321/)
-[![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/user/your-profile)
+[![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy)](https://www.udemy.com/user/mohamed-reda-665)
 
 ---
 
