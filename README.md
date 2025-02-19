@@ -26,7 +26,7 @@
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c++,bash,linux,github,git" alt="tech stack icons">
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,github,git" alt="tech stack icons">
 </p>
 
 ---
